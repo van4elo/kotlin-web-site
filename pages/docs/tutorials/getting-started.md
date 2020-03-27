@@ -1,12 +1,14 @@
 ---
-type: tutorial
-layout: tutorial
+type: doc
+layout: reference
 title:  "Getting Started with IntelliJ IDEA"
 description: "This tutorial walks you through creating a simple Hello World application using IntelliJ IDEA."
 authors: Hadi Hariri, Roman Belov
 date: 2020-01-23
 showAuthorInfo: false
 ---
+# Getting Started with IntelliJ IDEA
+
 ## Setting up the environment
 
 In this tutorial we're going to use IntelliJ IDEA. To get started, install a recent version of IntelliJ IDEA.

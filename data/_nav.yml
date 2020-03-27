@@ -80,6 +80,8 @@ reference:
     - title: Getting Started
       description: Get familiar with the basics of Kotlin including operations, coding conventions and idioms.
       content:
+        - url: /docs/tutorials/getting-started.html
+          title: Getting Started with IntelliJ IDEA
         - url: /docs/reference/basic-syntax.html
           title: Basic Syntax
         - url: /docs/reference/idioms.html
@@ -328,8 +330,6 @@ tutorials:
   content:
     - title: Getting Started
       content:
-        - url: /docs/tutorials/getting-started.html
-          title: Getting Started with IntelliJ IDEA
         - url: /docs/tutorials/getting-started-eclipse.html
           title: Getting Started with Eclipse
         - url: /docs/tutorials/command-line.html
