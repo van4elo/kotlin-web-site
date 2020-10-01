@@ -1,8 +1,5 @@
 ---
-type: doc
-layout: reference
-title: "Building Multiplatform Projects with Gradle"
-redirect_path: /docs/reference/mpp-intro
+title: reference/building-mpp-with-gradle.md
+showAuthorInfo: false
+redirect_path: https://kotlinlang.org/docs/reference/mpp-intro
 ---
-
-Multiplatform documentation has been restructured and updated.

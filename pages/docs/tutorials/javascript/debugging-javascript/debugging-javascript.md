@@ -1,10 +1,5 @@
 ---
-type: tutorial
-layout: tutorial
-title:  "Debugging Kotlin in browser"
-date: 2017-07-31
+title: tutorials/javascript/debugging-javascript/debugging-javascript.md
 showAuthorInfo: false
-redirect_path: docs/tutorials/javascript/debugging-kotlin-in-browser
+redirect_path: https://kotlinlang.orgdocs/tutorials/javascript/debugging-kotlin-in-browser
 ---
-
-The page was moved to [Debugging Kotlin/JS](../debugging-kotlin-in-browser.html)

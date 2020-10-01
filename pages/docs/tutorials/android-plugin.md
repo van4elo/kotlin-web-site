@@ -1,9 +1,5 @@
 ---
-type: tutorial
-layout: tutorial
-title:  "Obsolete"
-description: "Obsolete - Only for redirect purposes"
-authors: 
+title: tutorials/android-plugin.md
 showAuthorInfo: false
-redirect_path: docs/reference/android-overview
+redirect_path: https://kotlinlang.orgdocs/reference/android-overview
 ---

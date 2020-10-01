@@ -1,9 +1,5 @@
 ---
-type: tutorial
-layout: tutorial
-title:  "Obsolete"
-description: "Obsolete - Only for redirect purposes"
-authors: Hadi Hariri
+title: tutorials/native/basic-kotlin-native-app.md
 showAuthorInfo: false
-redirect_path: docs/tutorials/native/using-command-line-compiler
+redirect_path: https://kotlinlang.orgdocs/tutorials/native/using-command-line-compiler
 ---
